@@ -1,0 +1,55 @@
+I hereby claim:
+
+    I am kienduongbk on github.
+    I am kiendt (https://keybase.io/kiendt) on keybase.
+    I have a public key ASBdVDElpySzx0ufwGCJEAoDjVrloY8uJ6wGz0Bug_AxXwo
+
+To claim this, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205d543125a724b3c74b9fc06089100a038d5ae5a18f2e27ac06cf406e83f0315f0a",
+      "host": "keybase.io",
+      "kid": "01205d543125a724b3c74b9fc06089100a038d5ae5a18f2e27ac06cf406e83f0315f0a",
+      "uid": "cdc3d6f1d9bd70724a6337530a67c519",
+      "username": "kiendt"
+    },
+    "merkle_root": {
+      "ctime": 1568220029,
+      "hash": "5fb5b8fcf5ae6a92c10be5643b8c1d1650e31bb090239538baa3a6e72c8758ccbfac90cbf019e9ca02c21c945d5bf8798b157f51f61ee1521bc4485b1c256a31",
+      "hash_meta": "172b6f2be488c699f2d1180728fd10be9e5e2b437316a96b26c4594d31831dcc",
+      "seqno": 6763299
+    },
+    "service": {
+      "entropy": "xzL1ik7vmUO3pnan6jmUjstu",
+      "name": "github",
+      "username": "kienduongbk"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568220037,
+  "expire_in": 504576000,
+  "prev": "dce474a2dcd3bf77b5da9a0903625cd1a2d442e088f77e53fcde329594561e77",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+with the key ASBdVDElpySzx0ufwGCJEAoDjVrloY8uJ6wGz0Bug_AxXwo, yielding the signature:
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXVQxJacks8dLn8BgiRAKA41a5aGPLiesBs9AboPwMV8Kp3BheWxvYWTESpcCBcQg3OR0otzTv3e12poJA2Jc0aLUQuCI935T/N4ylZRWHnfEILb0mEwHNGvX622GGlPDiI20rX1mfudFMInpyoQc+wL7AgHCo3NpZ8RAP8VQ3Q6MMmKkYeIuY/KB72qTKYQPw62UIkmqUvxtusFMjBoVzwSRO1uWyq54Wv4rcsA3Ud18iIIgB3VlUEkaBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPZSXCVmkYK51X0ACwpo9L4wPAtajDMGSqLYGYeJk/GPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+My publicly-auditable identity:
+
+https://keybase.io/kiendt
+From the command line:
+
+Consider the keybase command line program.
+
+# look me up
+keybase id kiendt
